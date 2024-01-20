@@ -28,3 +28,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 /domRab6.iml
+/.idea/
